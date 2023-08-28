@@ -12,7 +12,7 @@ password = Label(miVentana, font= ('helvetica', 20, 'bold'),
 
 # Declaramos y definimos la función "genera", que será utilizada por el objeto anterior para mostrar la contraeña
 def genera():
-    # Inicializamos cada variable cargada con una lista:
+    # Inicializamos cada variable cargada con los caracteres pertinentes:
     lower = 'qwertyuiopasdfghjklñzxcvbnm'
     upper = 'QWERTYUIOPASDFGHJKLÑZXCVBNM'
     nums = '0123456789'
